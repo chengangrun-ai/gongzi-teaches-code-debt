@@ -72,6 +72,20 @@ Want the ledger written to a file (say `PONYTAIL-DEBT.md`)? Ask for it and it wi
 - Only counts markers with a comment prefix — prose that merely mentions the convention stays out of the ledger.
 - One-shot. To exit: say "normal mode" or `stop ponytail-debt`.
 
+## The series
+
+<p>
+  <a href="https://github.com/chengangrun-ai/gongzi-teaches-code"><img src="https://raw.githubusercontent.com/chengangrun-ai/gongzi-teaches-code/main/screenshots/01-main.png" width="32%" alt="主技能"></a>
+  <a href="https://github.com/chengangrun-ai/gongzi-teaches-code-review"><img src="https://raw.githubusercontent.com/chengangrun-ai/gongzi-teaches-code/main/screenshots/02-review.png" width="32%" alt="改动审查"></a>
+  <a href="https://github.com/chengangrun-ai/gongzi-teaches-code-audit"><img src="https://raw.githubusercontent.com/chengangrun-ai/gongzi-teaches-code/main/screenshots/03-audit.png" width="32%" alt="整仓审计"></a>
+</p>
+<p>
+  <a href="https://github.com/chengangrun-ai/gongzi-teaches-code-gain"><img src="https://raw.githubusercontent.com/chengangrun-ai/gongzi-teaches-code/main/screenshots/05-gain.png" width="32%" alt="效果看板"></a>
+  <a href="https://github.com/chengangrun-ai/gongzi-teaches-code-help"><img src="https://raw.githubusercontent.com/chengangrun-ai/gongzi-teaches-code/main/screenshots/06-help.png" width="32%" alt="速查卡"></a>
+</p>
+
+> Five companions, one idea: the best code is the code you never wrote.
+
 ## Credits
 
 Rewritten from [Ponytail](https://github.com/DietrichGebert/ponytail) (MIT, by DietrichGebert). The original copyright notice is preserved in `LICENSE`.
