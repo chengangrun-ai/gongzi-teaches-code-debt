@@ -6,6 +6,8 @@ An agent skill that collects every `ponytail:` shortcut comment in your code int
 
 Read-only. Its job is to stop "later" from quietly becoming "never".
 
+![欠账本：把 ponytail: 注释收成一张表](screenshots/hero.png)
+
 ## Why it exists
 
 "We'll fix it later" is the most expensive sentence in engineering. Six months on, nobody remembers why it was written that way or when it will break — so it just stays.
